@@ -1,0 +1,24 @@
+<html>
+<head>
+  <title> Mi primera pagina web para la materia de desarrollo para internet </title>
+</head>
+<body>
+<h2> Desarrollo para internet</h2>
+<h1>
+Definicion de HTML
+</h1>
+<p> El Lenguaje de Marcado de Hipertexto (HTML) es el código que se utiliza para estructurar y desplegar una página web y sus contenidos. Por ejemplo, sus contenidos podrían ser párrafos, una lista con viñetas, o imágenes y tablas de datos </p>
+<h1>
+¿Que espero que se enseñe en este curso para desarrollo para internet?
+</h1>
+<p> Aprender a hacer proyectos y a desarrollar sistemas para paginas web utilizando html o cualquier otro codigo para modificar la pagina web</p>
+<h1>
+¿A que te comprometes?
+</h1>
+<p> A realizar todas las actividades y aprender mas sobre los temas de clases</p>
+<h1>
+¿Que deseas aprender en este curso?
+</h1>
+<p> Todos lo leguajes de programación por plataformas web y como se puede combinar con otros lenguajes</p>
+</body>
+</html>
